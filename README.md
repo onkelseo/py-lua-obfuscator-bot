@@ -1,5 +1,10 @@
 # py-lua-obfuscator-bot
 This is a python lua obfuscator discord bot.
-Free to use!
 
-## DO NOT SELL IT
+# How to use:
+
+Use `!obfuscate` and attach a `.lua` file to obfuscate!
+
+
+## FREE TO USE!
+## DO NOT SELL IT!
