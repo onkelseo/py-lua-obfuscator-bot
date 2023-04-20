@@ -3,9 +3,9 @@ This is a python lua obfuscator discord bot.
 
 # Info:
 
-###- You need python knowledge
-###- You need Discord
-###- It saves all the obfuscation that Users makes in the folder `obfuscated`
+### - You need python knowledge
+### - You need Discord
+### - It saves all the obfuscation that Users makes in the folder `obfuscated`
 
 # How to use:
 
